@@ -1,0 +1,8 @@
+C:\Users\Shan\Desktop\CI-CD\nant-0.92\examples\HelloWindowsForms\bin\HelloWindowsForms.exe
+C:\Users\Shan\Desktop\CI-CD\nant-0.92\examples\HelloWindowsForms\bin\HelloWindowsForms.pdb
+C:\Users\Shan\Desktop\CI-CD\nant-0.92\examples\HelloWindowsForms\bin\HelloWindowsForms.xml
+C:\Users\Shan\Desktop\CI-CD\nant-0.92\examples\HelloWindowsForms\obj\Debug\HelloWindowsForms.MainForm.resources
+C:\Users\Shan\Desktop\CI-CD\nant-0.92\examples\HelloWindowsForms\obj\Debug\HelloWindowsForms.vbproj.GenerateResource.Cache
+C:\Users\Shan\Desktop\CI-CD\nant-0.92\examples\HelloWindowsForms\obj\Debug\HelloWindowsForms.exe
+C:\Users\Shan\Desktop\CI-CD\nant-0.92\examples\HelloWindowsForms\obj\Debug\HelloWindowsForms.xml
+C:\Users\Shan\Desktop\CI-CD\nant-0.92\examples\HelloWindowsForms\obj\Debug\HelloWindowsForms.pdb

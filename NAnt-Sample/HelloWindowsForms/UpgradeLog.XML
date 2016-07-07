@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HelloWindowsForms">
+</Property><Property Name="Solution File" Value="C:\Users\Shan\Desktop\CI-CD\nant-0.92\examples\HelloWindowsForms\HelloWindowsForms.sln">
+</Property><Property Name="Date" Value="Thursday, July 07, 2016">
+</Property><Property Name="Time" Value="18:55:07 PM">
+</Property></Properties><Event ErrorLevel="0" Project="HelloWindowsForms" Source="HelloWindowsForms.vbproj" Description="Project file successfully backed up as C:\Users\Shan\Desktop\CI-CD\nant-0.92\examples\HelloWindowsForms\Backup\HelloWindowsForms.vbproj">
+</Event><Event ErrorLevel="0" Project="HelloWindowsForms" Source="MainForm.vb" Description="File successfully backed up as C:\Users\Shan\Desktop\CI-CD\nant-0.92\examples\HelloWindowsForms\Backup\MainForm.vb">
+</Event><Event ErrorLevel="0" Project="HelloWindowsForms" Source="MainForm.resx" Description="File successfully backed up as C:\Users\Shan\Desktop\CI-CD\nant-0.92\examples\HelloWindowsForms\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="HelloWindowsForms" Source="HelloWindowsForms.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HelloWindowsForms" Source="HelloWindowsForms.vbproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="" Source="HelloWindowsForms.vbproj" Description="">
+</Event></UpgradeLog>
